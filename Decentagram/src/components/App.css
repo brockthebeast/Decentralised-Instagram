@@ -1,0 +1,14 @@
+/* Styles go here */
+#uploadImage{
+    position: absolute;
+right:    0;
+bottom:   0;
+}
+
+#full-width-tab-0:focus {
+    outline: none;
+  }
+
+  #full-width-tab-1:focus {
+    outline: none;
+  }
